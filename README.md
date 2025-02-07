@@ -3,6 +3,5 @@
 
 
 # Yazılım Proje Yönetimi Ödevi Backend
-## Güzel hatunlar güzel bıcırlarını kolay yıkasın diye backend
 
 Çamaşır makinelerini randevulu sisteme getirmek için Laravel üzerinde oluşturulmuş app
