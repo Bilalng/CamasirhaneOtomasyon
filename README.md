@@ -9,8 +9,14 @@
 # Yükleme İşlemleri
 
 1- composer install 
+
 2- SQL dosyasının içerisindeki sql dosyasını database yükleyin
+
 3- npm install
+
 4- php artisan serve
+
 5- {url}/admin/login 
+
 6- e posta: admin@laravel.com password: admin
+
